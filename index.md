@@ -16,16 +16,16 @@ Distributed Systems, Speech Recognition, Machine Learning
 
 ---
 ## Work Experience
-|    |    |
-|----|----|
+|     |     |
+|:----|----:|
 |`Apr 2020 - Present`| Software engineer at yellow.ai|
 |`Oct 2010 - Apr 2020`| Software engineer at google.com|
 |`Jan 2003 - Oct 2010`| Software engineer at microsoft.com|
 |`Jan 2002 - Jan 2003`| Research Associate, Media Labs Asia|
 
 ## Education
-|      |      |      |
-|------|------|------|
+|      |         |        |
+|:------|:------:|------:|
 |`Jan 2002`| Master of Engg | Indian Institute of Science, Bangalore
 |`Jun 2000`| B.Tech (Computer Science)| National Institute of Technology, Warangal
 |      |      |      |
