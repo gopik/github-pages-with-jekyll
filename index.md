@@ -1,5 +1,4 @@
 ---
-title: "Welcome to my blog"
+title: "Gopi Krishna Madabhushi"
 ---
 
-I'm glad you are here. I plan to talk about ...
