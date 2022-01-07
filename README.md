@@ -30,6 +30,10 @@ Distributed Systems, Speech Recognition, Machine Learning
 |`Jun 2000`| B.Tech (Computer Science)| National Institute of Technology, Warangal
 |      |      |      |
 
+## Articles
+* [API Flow control](https://github.com/gopik/storage-reading-list/wiki/API-flow-control)
+* [Building a logs search system](https://github.com/gopik/storage-reading-list/wiki/Building-a-logs-search-system)
+
 # Projects
 ## yellow.ai
 * Resilience and Scalability of engagement backend [Tech lead] - Improving observability and identifying bottlenecks in the design and fix the design to improve scalability
