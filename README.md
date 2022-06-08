@@ -36,6 +36,7 @@ Distributed Systems, Speech Recognition, Machine Learning
 
 # Projects
 ## yellow.ai
+* Disaster recovery design - Prototype different solutions with < 1hr RTO/RPO.
 * Resilience and Scalability of engagement backend [Tech lead] - Improving observability and identifying bottlenecks in the design and fix the design to improve scalability
 * Multi region deployment of cloud platform [Tech lead and project management] - Enable the existing system to be deployed in multiple cloud regions to enable data localization
 * Log collection to blob store [Tech lead]
