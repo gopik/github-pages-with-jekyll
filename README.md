@@ -31,11 +31,13 @@ Distributed Systems, Speech Recognition, Machine Learning
 |      |      |      |
 
 ## Articles
-* [API Flow control](https://github.com/gopik/storage-reading-list/wiki/API-flow-control)
-* [Building a logs search system](https://github.com/gopik/storage-reading-list/wiki/Building-a-logs-search-system)
+* [API Flow control](https://github.com/gopik/storage-reading-list/blob/main/ApiFlowControl.md)
+* [Building a logs search system](https://github.com/gopik/storage-reading-list/blob/main/LogsSearch.md)
+* [Real time analytics system] (https://github.com/gopik/storage-reading-list/blob/main/RealtimeAnalytics.md)
 
 # Projects
 ## yellow.ai
+* Flink sink to support upserts in delta lake tables (personal)
 * Disaster recovery design - Prototype different solutions with < 1hr RTO/RPO.
 * Resilience and Scalability of engagement backend [Tech lead] - Improving observability and identifying bottlenecks in the design and fix the design to improve scalability
 * Multi region deployment of cloud platform [Tech lead and project management] - Enable the existing system to be deployed in multiple cloud regions to enable data localization
