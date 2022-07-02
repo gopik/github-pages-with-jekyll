@@ -33,7 +33,7 @@ Distributed Systems, Speech Recognition, Machine Learning
 ## Articles
 * [API Flow control](https://github.com/gopik/storage-reading-list/blob/main/ApiFlowControl.md)
 * [Building a logs search system](https://github.com/gopik/storage-reading-list/blob/main/LogsSearch.md)
-* [Real time analytics system] (https://github.com/gopik/storage-reading-list/blob/main/RealtimeAnalytics.md)
+* [Real time analytics system](https://github.com/gopik/storage-reading-list/blob/main/RealtimeAnalytics.md)
 
 # Projects
 ## yellow.ai
