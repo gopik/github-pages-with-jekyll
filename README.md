@@ -37,7 +37,7 @@ Distributed Systems, Speech Recognition, Machine Learning
 
 # Projects
 ## yellow.ai
-* Flink sink to support upserts in delta lake tables (personal)
+* Flink pipeline to support upserts in delta lake tables (open source)
 * Disaster recovery design - Prototype different solutions with < 1hr RTO/RPO.
 * Resilience and Scalability of engagement backend [Tech lead] - Improving observability and identifying bottlenecks in the design and fix the design to improve scalability
 * Multi region deployment of cloud platform [Tech lead and project management] - Enable the existing system to be deployed in multiple cloud regions to enable data localization
