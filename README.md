@@ -1,6 +1,7 @@
 # Gopi Krishna Madabhushi
 ## Software Engineer, yellow.ai
 gopikrishnam@gmail.com
+
 [LinkedIn](https://www.linkedin.com/in/gopik-/)
 
 ---
