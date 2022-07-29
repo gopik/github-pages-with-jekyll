@@ -26,7 +26,7 @@ Distributed Systems, Speech Recognition, Machine Learning
 ## Education
 |      |      |      |
 |------|------|------|
-|`Jan 2002`| Master of Engg (CSA) | Indian Institute of Science, Bangalore | 
+|`Jan 2002`| Master of Engg (Computer Science) | Indian Institute of Science, Bangalore | 
 |`Jun 2000`| B.Tech (Computer Science)| National Institute of Technology, Warangal |
 |      |      |      |
 
