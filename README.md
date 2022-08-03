@@ -67,7 +67,7 @@ The POC was abandoned since building and maintaining cost was considered too hig
 Improving observability and identifying bottlenecks in the design and fix the design to improve scalability**
 
 Challenges:
-1. Control system issues where we need to regulate micro tasks to achieve maximum throughput without overwhelming other systems. This was originally managed by heuristics which lead to either overwhelming other systems or underutilizing them. Explored this area in detail (see * [API Flow control](https://github.com/gopik/storage-reading-list/blob/main/ApiFlowControl.md) for findings). Eventually this was solved by a much simpler solution by observing the queue size of the target system directly instead of estimating it based on signals.
+1. Control system issues where we need to regulate micro tasks to achieve maximum throughput without overwhelming other systems. This was originally managed by heuristics which lead to either overwhelming other systems or underutilizing them. Explored this area in detail (see [API Flow control](https://github.com/gopik/storage-reading-list/blob/main/ApiFlowControl.md) for findings). Eventually this was solved by a much simpler solution by observing the queue size of the target system directly instead of estimating it based on signals.
 
 ### Multi region deployment of cloud platform [Tech lead and project management]
 
