@@ -99,7 +99,9 @@ Challenges:
 2. Cost to build, maintain and optimize for many languages. Again a tradeoff between potential performance gain and cost.
 
 
-### Cloud ASR analysis and custom model management [IC] - Build a frontend and backend for the developers of voice bots. This was used by the developers to go through transcripts of a bot/user conversation to identify ASR issues as well as manage custom models on azure
+### Cloud ASR analysis and custom model management [IC]
+
+Build a frontend and backend for the developers of voice bots. This was used by the developers to go through transcripts of a bot/user conversation to identify ASR issues as well as manage custom models on azure
 Challenges:
 1. Given we use multiple custom models, how to manage access to cloud resources that are needed to maintain custom model. Wanted to avoid giving access to many users and instead hid this access control behind an internal service which was authenticating using internal auth.
 
