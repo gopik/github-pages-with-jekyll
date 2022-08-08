@@ -47,7 +47,7 @@ There's an existing flink connector for delta lake that supports appends to delt
 updates to existing rows (updates will be implemented by rewriting affected parquet files).
 
 Challenges (Not done yet):
-1. Reduce the amount of IO (write amplication). T
+1. Reduce the amount of IO (write amplication).
 2. The files can become "fragmented" like few files becoming too big (or small) etc, so another challenge is to maintain the storage by keeping files at reasonable size.
 3. This requires the files be sorted by the primary key of the data source, but this might slow down many queries which don't filter by primary keys. How do we handle this scenario.
 
