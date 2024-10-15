@@ -1,5 +1,5 @@
 # Gopi Krishna Madabhushi
-## Architect, yellow.ai
+## Staff Software Engineer, Google
 gopikrishnam@gmail.com
 
 [LinkedIn](https://www.linkedin.com/in/gopik-/)
@@ -20,8 +20,9 @@ Distributed Systems, Speech Recognition, Machine Learning
 ## Work Experience
 |    |    |
 |----|----|
-|`Apr 2020 - Present`| Software engineer at yellow.ai|
-|`Oct 2010 - Apr 2020`| Software engineer at google.com|
+|`Dec 2022 - Present` | Staff Software Engineer at google.com|
+|`Apr 2020 - Dec 2022`| Architect at yellow.ai|
+|`Oct 2010 - Apr 2020`| Senior Software engineer at google.com|
 |`Jan 2003 - Oct 2010`| Software engineer at microsoft.com|
 |`Jan 2002 - Jan 2003`| Research Associate, Media Labs Asia|
 
@@ -38,6 +39,9 @@ Distributed Systems, Speech Recognition, Machine Learning
 * [Real time analytics system](https://github.com/gopik/storage-reading-list/blob/main/RealtimeAnalytics.md)
 
 # Projects
+## Google
+### Data platform and Capacity management
+
 ## yellow.ai
 
 ### Flink pipeline to support upserts in delta lake tables (open source)
